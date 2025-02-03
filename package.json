@@ -31,7 +31,7 @@
     "npm-check-updates": "^17.1.14",
     "npm-run-all2": "^7.0.2",
     "textlint": "^14.4.2",
-    "typescript-eslint": "^8.19.1"
+    "typescript-eslint": "^8.23.0"
   },
   "volta": {
     "node": "22.11.0"
